@@ -34,3 +34,17 @@ The full video series is available (in Chinese interface) on WeChat Channel:
 
 **📱 Channel:** 宜居城市实验室 LivableCityLAB  
 **🔗 Playlist:** [Link to be inserted]  
+
+## 🏷️ Citation
+Alexander, C. (2002–2005). The Nature of Order: An Essay on the Art of Building and the Nature of the Universe. Berkeley, California: Center for Environmental Structure.
+
+Jiang, B., & de Rijke, C. (2021). Structural beauty: A structure-based computational approach to quantifying the beauty of an image. Journal of Imaging, 7(5), 78. https://doi.org/10.3390/jimaging7050078
+
+Jiang, B., & de Rijke, C. (2023). Living images: A recursive approach to computing the structural beauty of images or the livingness of space. Annals of the American Association of Geographers, 113(6), 1329–1347. https://doi.org/10.1080/24694452.2022.2121813
+
+Kaplan, R., & Kaplan, S. (1989). The Experience of Nature: A Psychological Perspective. Cambridge: Cambridge University Press.
+
+Ulrich, R. S. (1984). View through a window may influence recovery from surgery. Science, 224(4647), 420–421. https://doi.org/10.1126/science.6143402
+
+Wilson, E. O. (1986). Biophilia. Cambridge, Massachusetts: Harvard University Press.
+
