@@ -1,0 +1,43 @@
+What is beauty?
+Building on the theory of living structure,
+Professor Bin Jiang introduced a new, measurable concept of beauty: structural beauty.
+
+He proposed a simple formula to quantify the “degree of livingness” in a structure:
+L = S × H, where:
+L stands for structural beauty,
+S is the number of substructures,
+H is the number of hierarchical levels.
+
+Using the head/tail breaks,
+an image or spatial pattern can be recursively broken down into nested substructures,
+and the formula is applied to compute its degree of livingness.
+
+The richer and more layered the structure,
+the higher the L value—
+and the more beautiful it feels.
+
+This idea was inspired by the first of Christopher Alexander’s 15 geometric properties: Levels of Scale.
+This property is essential—
+without it, most of the others cannot emerge.
+It is the foundation of a living structure.
+
+Through studies of images and spatial forms,
+it was found that structures with high structural beauty
+often follow two natural laws:
+
+Scaling law –
+small sub-structures greatly outnumber large ones.
+
+Tobler’s law –
+structures at similar levels tend to resemble one another.
+
+These patterns not only explain the beauty of nature,
+but also why traditional architecture and classic patterns resonate so deeply.
+
+Structural beauty has been applied in areas such as urban spatial analysis,
+image aesthetics,
+and architectural style comparison,
+and it offers a theoretical foundation for AI-based visual perception of structure.
+
+It transforms beauty from a subjective feeling
+into a measurable, observable, and reproducible structural order.
