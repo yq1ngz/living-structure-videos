@@ -19,8 +19,8 @@ Together, they form a coherent educational supplement to the study of urban aest
 ## 📁 File Structure
 
 - `scripts/` contains English text scripts for all 20 videos, organized and titled by topic.
-- `thumbnails/` (optional) stores representative covers or frames from each video.
-- `LICENSE.txt`: This work is licensed under [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/), permitting reuse for non-commercial academic or educational purposes.
+- `videos/`: Full video files 
+- `LICENSE.txt`: CC BY-NC 4.0
 
 ## 🧠 Suggested Uses
 
