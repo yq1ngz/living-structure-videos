@@ -34,10 +34,3 @@ The full video series is available (in Chinese interface) on WeChat Channel:
 
 **📱 Channel:** 宜居城市实验室 LivableCityLAB  
 **🔗 Playlist:** [Link to be inserted]  
-
-## 🏷️ Citation
-
-If you use these scripts or ideas in academic research, please cite the original thesis:
-
-> Author Name. *From Evaluation to Generation: A Multi-scale Analysis of Urban Scenicness Based on the Theory of Living Structure*. Master's Thesis. 2025.
-# living-structure-videos
